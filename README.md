@@ -35,11 +35,15 @@ If you've got something cool in the works and need a semi-decent Python develope
 
 ### Stuff I'm Planning On Building
 - 👨🏽 My Portfolio Page (hopefully using stuff that showcases my skills)
+
 - 📰 Fantasy Premier League Analytics (something readily accessible on Telegram, maybe; should have most features of the offical app + some third-party apps)
     - In addition to the bot, a webpage that tracks the performance of users and delivers gameweek results in a special, tradeable card, sort of way
+
 - 🗂 A Simple Resume Builder (with no ads, no subscriptions; will probably have several templates and other customization options)
+
 - ♖ 3x3 Connect-Four-esque Game (feeding my nostalgia)
+
 - 🤝 Projects with other folks
 
 ## Notes
-I am writing up appropriate readmes for my projects and cleaning them up so people can clone them without worrying about getting lost or invading my privacy (so...many...API...keys...everywhere; environment variables ftw).
+I am writing up appropriate readmes for my projects and cleaning them up so people can clone them without worrying about getting lost or invading my privacy (so...many...API...keys...everywhere; environment variables ftw). I'll "unprivate" my repos as soon as I'm done :).
