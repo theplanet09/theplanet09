@@ -49,5 +49,3 @@ If you've got something cool in the works and need a semi-decent Python develope
 
 ## Notes
 I am writing up appropriate readmes for my projects and cleaning them up so people can clone them without worrying about getting lost or invading my privacy (so...many...API...keys...everywhere; environment variables ftw). I'll "unprivate" my repos as soon as I'm done :).
-
-![](https://hit.yhype.me/github/profile?user_id=69670938)
