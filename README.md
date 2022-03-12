@@ -1,3 +1,5 @@
+<img align ="right" src="https://komarev.com/ghpvc/?username=theplanet09&label=Views&color=FEB95F&style=for-the-badge" alt="theplanet09">
+
 ## Hello!
 
 I'm currently building my portfolio page. I've planned some cool stuff for it but in the meantime, this readme should suffice. There are a few projects that could prove useful to you, kind vistor, so check them out when you can :P.
